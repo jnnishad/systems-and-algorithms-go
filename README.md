@@ -69,15 +69,3 @@ tree wasn't actually invalid) — fixed, all packages now pass
 <!-- test commit 2026-04-20T17:11:50 -->
 
 <!-- test commit 2026-05-08T11:11:22 -->
-
-<!-- JN -->
-
-<!-- JN -->
-
-<!-- JN -->
-
-<!-- JN -->
-
-<!-- JN -->
-
-<!-- JN -->
